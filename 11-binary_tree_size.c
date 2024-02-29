@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_size - this wpuld Calculate the size of a binary tree
+ * binary_tree_size - this would Calculate the size of a binary tree
  * @tree: the Pointer to the root node of the tree
  * Return: retuns Size of the binary tree
  */

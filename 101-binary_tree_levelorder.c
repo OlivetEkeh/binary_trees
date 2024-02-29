@@ -45,9 +45,9 @@ void process_level(const binary_tree_t *tree, void (*func)(int), int level)
 
 
 /**
- * binary_tree_height - measures the height of a binary tree
+ * binary_tree_height - this would measure the height of a binary tree
  * @tree: a pointer to the root node of the tree to measure the height
- * Return: size of the tree or 0 if tree is NULL
+ * Return: size of the tree or would return 0 if tree is NULL
  */
 size_t binary_tree_height(const binary_tree_t *tree)
 {
